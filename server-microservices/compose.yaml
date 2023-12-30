@@ -1,0 +1,15 @@
+services:
+  orchestrator:
+    build: ./orchestrator/graphql
+    ports:
+      - "80:4000"
+    environment:
+      - DATABASE_URL=postgresql://postgres:Hasyakyla48@db.rlcxotarankwvnszeygx.supabase.co:5432/postgres
+  app:
+    build: ./services/app
+    ports:
+      - "4002:4002"
+  user:
+    build: ./services/users
+    ports:
+      - "4001:4001"

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Strangers Things",
+        "synopsis": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl",
+        "slug" : "StrangersThings",
+        "trailerUrl": "https://www.youtube.com/",
+        "imgUrl": "https://static.wikia.nocookie.net/strangerthings8338/images/b/bc/Stranger_Things_S01_Poster_2.jpg/revision/latest?cb=20160827064615",
+        "rating": "8",
+        "genreId": "3",
+        "authorId": "654cb8ff99e071d38e049fdd"
+    },
+    {
+        "title": "Sherlock Holmes",
+        "synopsis": "Dalang kriminal baru telah tiba -Professor Moriarty - tidak hanya memiliki intelektual yang sama dengan Sherlock Holmes, namun kapasitasnya kejahatan dan tidak memiliki hati nurani, dapat memberinya keuntungan lebih dari detektif terkenal tersebut",
+        "slug" : "SherlockHolmes",
+        "trailerUrl":"https://www.youtube.com/",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_.jpg",
+        "rating": "9",
+        "genreId": "5",
+        "authorId": "654cb8ff99e071d38e049fdd"
+    }
+]
